@@ -4,8 +4,6 @@
 
 Here, we believe in turning dreams into impactful action. By gathering a community of innovators, dreamers, misfits, and problem-solvers, we’re building a vibrant ecosystem where every effort counts toward positive change.
 
----
-
 ### What We’re About
 
 🔹 **Empowering Changemakers** – We connect individuals and projects that share a commitment to meaningful impact, offering resources, partnerships, and a thriving support network.
@@ -13,8 +11,6 @@ Here, we believe in turning dreams into impactful action. By gathering a communi
 🔹 **Rewarding Action** – Through our PAVE token system, we recognize contributions and encourage active participation in creating sustainable solutions.
 
 🔹 **Innovating for the Future** – We're pioneering tools, platforms, and methods that make collaboration and action seamless and scalable.
-
----
 
 ### Join Us on Our Journey
 
